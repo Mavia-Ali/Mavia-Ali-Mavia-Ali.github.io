@@ -1,5 +1,4 @@
-# Mavia-Ali-Mavia-Ali.github.io
-# Mavia Ali's Portfolio
+
 
 👋 Hello, I'm **Noman Ahmed**, a passionate software engineering student at SMIU. I have a strong foundation in mobile application development, specializing in Android using Java, which I honed through comprehensive training at NAVTTC.
 
