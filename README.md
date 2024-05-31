@@ -1,4 +1,4 @@
-
+# Noman Ahmed's Portfolio
 
 👋 Hello, I'm **Noman Ahmed**, a passionate software engineering student at SMIU. I have a strong foundation in mobile application development, specializing in Android using Java, which I honed through comprehensive training at NAVTTC.
 
@@ -44,4 +44,4 @@
 - [LinkedIn](https://www.linkedin.com/in/nomanpb234/)
 - [Twitter](https://twitter.com/your-twitter)
 
-Feel free to explore my repositories and don't hesitate to reach out. Let's connect and code together! 🚀
+Feel free to explore my repositories and don't hesitate to reach out. Let's connect and code together! I am an SMIU student and a Flutter developer, currently studying at SMIT.
